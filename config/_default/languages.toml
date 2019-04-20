@@ -1,0 +1,40 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+# Uncomment the lines below to configure your website in a second language.
+[mn]
+  languageCode = "mn"
+  contentDir = "content/mn"
+  title = "Энэбишийн Тэмүүлэн"
+  [mn.params]
+    description = "Энэбишийн Тэмүүлэнгийн вэб хуудас"
+  [[mn.menu.main]]
+    name = "Тухай"
+    url = "#тухай"
+    weight = 1
+  [[mn.menu.main]]
+    name = "Блог"
+    url = "#блог"
+    weight = 20
+  [[mn.menu.main]]
+    name = "Ажлууд"
+    url = "#ажлууд"
+    weight = 30
+  [[mn.menu.main]]
+    name = "Судалгааны хэвлэлүүд"
+    url = "#хэвлэлүүд"
+    weight = 40
+  [[mn.menu.main]]
+    name = "Хичээл"
+    url = "/хичээл/"
+    weight = 50
+  [[mn.menu.main]]
+    name = "Холбоо барих"
+    url = "#холбоо-барих"
+    weight = 60
