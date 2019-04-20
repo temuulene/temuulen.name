@@ -6,11 +6,12 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  languageName = "English"
 # Uncomment the lines below to configure your website in a second language.
 [mn]
   languageCode = "mn"
   contentDir = "content/mn"
+  languageName = "Монгол"
   title = "Энэбишийн Тэмүүлэн | Temuulen Enebish"
   [mn.params]
     description = "Энэбишийн Тэмүүлэнгийн вэб хуудас"
