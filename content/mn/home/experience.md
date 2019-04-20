@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Туршлага"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research/Teaching Assistant"
+  company = "University of Southern California"
+  company_url = "https://keck.usc.edu/preventive-medicine/"
+  location = "Los Angeles, California"
+  date_start = "2014-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Worked on effect of ultrafine particles from airplanes on asthma exacerbation. I was a teaching assistant for multiple epidemiology and biostatistics courses at both graduate and undergraduate levels. Currently working on adverse health effects due to exposure to wind-blown dust from Salton Sea."""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Project Assistant"
+  company = "Mongolian Field Epidemiology Training Programme at WHO representative office in Mongolia"
+  company_url = "http://www.wpro.who.int/mongolia/areas/emerging_diseases/fetp_introduction/en/"
+  location = "Ulaanbaatar, Mongolia"
+  date_start = "2009-10-01"
+  date_end = "2012-06-01"
+  description = """Helped establish the first field epidemiology programme in Mongolia and assisted with the daily operation"""
 
 +++

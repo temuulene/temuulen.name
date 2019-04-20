@@ -1,0 +1,17 @@
+---
+title: "Hello World"
+author: "Temuulen Enebish"
+date: 2019-04-18T21:13:14-05:00
+categories: ["General"]
+tags: ["beginning", "reason"]
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Beginning
+
+I'm creating this static website as my personal page on the web. It has been a long due dream. I'm planning to write mainly for myself to remember stuff and practice my writing skills and it will be a pleasant bonus if anyone else finds them useful or entertaining. 
+

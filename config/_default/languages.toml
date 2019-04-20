@@ -11,7 +11,7 @@
 [mn]
   languageCode = "mn"
   contentDir = "content/mn"
-  title = "Энэбишийн Тэмүүлэн"
+  title = "Энэбишийн Тэмүүлэн | Temuulen Enebish"
   [mn.params]
     description = "Энэбишийн Тэмүүлэнгийн вэб хуудас"
   [[mn.menu.main]]
@@ -22,18 +22,18 @@
     name = "Блог"
     url = "#блог"
     weight = 20
-  [[mn.menu.main]]
-    name = "Ажлууд"
-    url = "#ажлууд"
-    weight = 30
+  #[[mn.menu.main]]
+   # name = "Ажлууд"
+    #url = "#ажлууд"
+    #weight = 30
   [[mn.menu.main]]
     name = "Судалгааны хэвлэлүүд"
     url = "#хэвлэлүүд"
     weight = 40
-  [[mn.menu.main]]
-    name = "Хичээл"
-    url = "/хичээл/"
-    weight = 50
+  #[[mn.menu.main]]
+   # name = "Хичээл"
+    #url = "/хичээл/"
+    #weight = 50
   [[mn.menu.main]]
     name = "Холбоо барих"
     url = "#холбоо-барих"

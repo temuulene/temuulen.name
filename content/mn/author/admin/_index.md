@@ -1,48 +1,50 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm a Mongolian epidemiologist with a background in medicine. My research interests include air pollution exposure, environmental and reproductive epidemiology.
+  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Epidemiology
+    institution: University of Southern California
+    year: 2020 (expected)
+  - course: MPH in Environmental Health Sciences
+    institution: University of South Carolina
+    year: 2014
+  - course: BSc in Medicine
+    institution: Mongolian National University of Medical Sciences
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "enebish@usc.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Air Pollution Exposure
+- Environmental Epidemiology
+- Spatial Statistics
+name: Энэбишийн Тэмүүлэн
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Өмнөд Калифорнийн Их Сургууль
+  url: "https://keck.usc.edu/preventive-medicine/"
+role: Эпидемиологийн чиглэлээр Докторантур
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/TemuulenE
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8ErgYPsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/temuulene
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+  Temuulen Enebish is a Ph.D Candidate in Epidemiology at the Department of Preventive Medicine at USC. His research interests include satellite remote sensing of air quality, spatial statistics, environmental and reproductive epidemiology. He is a former Fulbright scholar and committed to "leave the world a bit better, whether by a healthy child, a garden patch, or a redeemed social condition".
+  
+  He helped establish ["Innovation"](http://innovations.mn/), a Mongolian medical journal, during his medical school years and was involved in the founding of [Mongolian Field Epidemiology Training Programme](https://www.tephinet.org/training-programs/mongolia-field-epidemiology-training-program) while working at the WHO Representative Office in Mongolia. He has high hopes of going back to his home country after getting his degree and help in training of next generation of Mongolian epidemiologists as well as work on introducing R software into Mongolian public health community.
+ 
+ 
