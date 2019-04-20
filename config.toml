@@ -19,11 +19,7 @@ copyright = "&copy; {year} Temuulen Enebish"
 googleAnalytics = "UA-138679850-1"
 
 # Enable comments by entering your Disqus shortname
-<<<<<<< HEAD
 disqusShortname = "temuulene"
-=======
-disqusShortname = "temuulene.disqus.com/admin"
->>>>>>> 8c4483b6903cc1e3369cb8548bf28876992069f5
 
 ############################
 ## Advanced options below ##
