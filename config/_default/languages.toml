@@ -17,11 +17,11 @@
     description = "Энэбишийн Тэмүүлэнгийн вэб хуудас"
   [[mn.menu.main]]
     name = "Тухай"
-    url = "#тухай"
+    url = "#about"
     weight = 1
   [[mn.menu.main]]
     name = "Блог"
-    url = "#блог"
+    url = "#posts"
     weight = 20
   #[[mn.menu.main]]
    # name = "Ажлууд"
@@ -29,7 +29,7 @@
     #weight = 30
   [[mn.menu.main]]
     name = "Судалгааны хэвлэлүүд"
-    url = "#хэвлэлүүд"
+    url = "#publications"
     weight = 40
   #[[mn.menu.main]]
    # name = "Хичээл"
@@ -37,5 +37,5 @@
     #weight = 50
   [[mn.menu.main]]
     name = "Холбоо барих"
-    url = "#холбоо-барих"
+    url = "#contact"
     weight = 60

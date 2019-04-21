@@ -1,0 +1,222 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Агуулгын жагсаалт
+
+- id: on_this_page
+  translation: Энэ хуудас дээр
+
+- id: back_to_top
+  translation: Дээшээ буцах
+
+# General
+
+- id: related
+  translation: Хамааралтай
+
+- id: minute_read
+  translation: минут уншина
+
+- id: previous
+  translation: Өмнөх
+
+- id: next
+  translation: Дараах
+
+- id: figure
+  translation: "Зураг %d:"
+
+# Buttons
+
+- id: btn_preprint
+  translation: Хэвлэлийн өмнөх
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Ишлэх
+
+- id: btn_slides
+  translation: Слайдууд
+
+- id: btn_video
+  translation: Видео
+
+- id: btn_code
+  translation: Код
+
+- id: btn_dataset
+  translation: Өгөгдөл
+
+- id: btn_project
+  translation: Төсөл
+
+- id: btn_poster
+  translation: Постер
+
+- id: btn_source
+  translation: Эх хувилбар
+
+- id: btn_copy
+  translation: Хуулбар
+
+- id: btn_download
+  translation: Татах
+
+# About widget
+
+- id: interests
+  translation: Сонирхлууд
+
+- id: education
+  translation: Боловсрол
+
+- id: user_profile_latest
+  translation: Хамгийн сүүлд
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Сертификат харах
+
+# Experience widget
+
+- id: present
+  translation: Одоо
+
+# Pages widget
+
+- id: more_pages
+  translation: Бүгдийг харах
+
+- id: more_posts
+  translation: Бүх бичлэгийг харах
+
+- id: more_talks
+  translation: Бүх яриаг харах
+
+- id: more_publications
+  translation: Бүх судалгааны хэвлэлүүдийг харах
+
+# Contact widget
+
+- id: contact_name
+  translation: Нэр
+
+- id: contact_email
+  translation: Имэйл
+
+- id: contact_message
+  translation: Захиа
+
+- id: contact_send
+  translation: Илгээх
+
+- id: book_appointment
+  translation: Уулзалт товлох
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Абстракт
+
+- id: publication
+  translation: Судалгааны хэвлэл
+
+- id: publication_type
+  translation: Хэлбэр
+
+- id: date
+  translation: Огноо
+
+- id: last_updated
+  translation: Хамгийн сүүлд шинэчилсэн
+
+- id: event
+  translation: Үйл ажиллагаа
+
+- id: location
+  translation: Байрлал
+
+- id: pub_uncat
+  translation: Uncategorized
+
+- id: pub_conf
+  translation: Хурлын илтгэл
+
+- id: pub_journal
+  translation: Сэтгүүлийн өгүүлэл
+
+- id: pub_preprint
+  translation: Хэвлэлийн өмнөх
+
+- id: pub_report
+  translation: Тайлан
+
+- id: pub_book
+  translation: Ном
+
+- id: pub_book_section
+  translation: Номны хэсэг
+
+- id: pub_thesis
+  translation: Thesis
+
+- id: pub_patent
+  translation: Патент
+
+# Project details
+
+- id: open_project_site
+  translation: Төслийн хуудас руу явах
+
+# Default titles for archive pages
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publications
+
+- id: talks
+  translation: Talks
+
+- id: projects
+  translation: Projects
+
+# Search
+
+- id: search
+  translation: Хайлт
+
+- id: search_placeholder
+  translation: Хайлт...
+
+- id: search_results
+  translation: үр дүн олдов
+
+- id: search_no_results
+  translation: Үр дүн олдсонгүй
+
+# Error 404
+
+- id: page_not_found
+  translation: Энэ хуудас байхгүй байна
+
+- id: 404_recommendations
+  translation: Та магадгүй эднүүсийн нэгийг хайж байсан юм болов уу?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: This website uses cookies to ensure you get the best experience on our website.
+
+- id: cookie_dismiss
+  translation: Ойлголоо!
+
+- id: cookie_learn
+  translation: Илүүг мэдье
