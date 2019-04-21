@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "temuulen@gmail.com"
 # phone = "888 888 88 88"
-address = "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California, 90032, USA"
+address = "University of Southern California, 2001 Soto St, Los Angeles, California, 90032, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
