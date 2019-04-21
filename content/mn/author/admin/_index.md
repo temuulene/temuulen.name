@@ -5,20 +5,20 @@ bio: I'm a Mongolian epidemiologist with a background in medicine. My research i
   
 education:
   courses:
-  - course: PhD in Epidemiology
-    institution: University of Southern California
-    year: 2020 (expected)
-  - course: MPH in Environmental Health Sciences
-    institution: University of South Carolina
+  - course: Эпидемиологийн чиглэлээр PhD 
+    institution: Өмнөд Калифорнийн Их Сургууль
+    year: 2020 (төгсөх жил)
+  - course: Орчны эрүүл мэндийн чиглэлээр MPH
+    institution: Өмнөд Каролинагийн Их Сургууль
     year: 2014
-  - course: BSc in Medicine
-    institution: Mongolian National University of Medical Sciences
+  - course: Анагаах ухааны чиглэлээр BSc
+    institution: Анагаахын Шинжлэх Ухааны Үндэсний Их Сургууль
     year: 2009
 email: "enebish@usc.edu"
 interests:
-- Air Pollution Exposure
-- Environmental Epidemiology
-- Spatial Statistics
+- Агаарын бохирдлын өртөлт
+- Орчны эпидемиологи
+- Орон зайн статистик
 name: Энэбишийн Тэмүүлэн
 organizations:
 - name: Өмнөд Калифорнийн Их Сургууль

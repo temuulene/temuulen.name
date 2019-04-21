@@ -213,7 +213,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: Таныг манай вэб хуудсанд зочлох явцыг хөнгөвчлөхийн тулд энэхүү вэб хуудас күүки (cookie) ашигладаг болно.
 
 - id: cookie_dismiss
   translation: Ойлголоо!
