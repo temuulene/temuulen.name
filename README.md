@@ -1,3 +1,3 @@
-# temuulen.name
+# temuulen.me
 Personal web page
-https://temuulen.name/
+https://temuulen.me/
